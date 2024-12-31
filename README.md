@@ -1,28 +1,31 @@
-Rich edition
+Vērtīgs izdevums
 =========
 
-Roman-à-clef genre handbook which covers matter in just 21 pages (including images) separated into 12 chapters
+Roman-à-clef žanra rokasgrāmata kuras saturs atveidots 21 lapaspusē (ieskaitot attēlus) un 12 nodaļās.
 
-## Using these files
+## Kā izmantot datnes
 
-The file book.html contains a rich edition - [Whizzy way on how to become a ₿ millionaire](http://handbook.lol/) 
+Datne book.html satur vērtīgu izdevumu - [Atjautīgs veids kā kļūt par miljonāru](http://handbook.lol/) 
 
-### Order non-fungible version of this book
+### Pasūti neaizvietojamu šīs grāmatas izdevumu
 
 ![Order an image](images/order.png "Order book")
 
-To order a book, you need to accomplish these steps:
+Lai pasūtīt grāmatu ir jāveic sekojošas darbības:
 
-*) Send to __1J12J21ABfVCQpdaBujcf3Xmm3KmCFw66t__ at least twice as many satoshis as there are at this address.
+*) Nosūti adresē __1LAT1CfzYwmpbnCcuWVACmedvVbTra9mDw__ vismaz divreiz vairāk satoši nekā atrodami šīs adreses bilancē.
 
-*) Send a request to an email above, including full delivery address (digital or physical) signed by address you sent funds from.
+*) Veic pieteikumu e-pastā, kas norādīts augstāk, ietverot ziņā pilnu piegādes adresi (fizisku vai e-pasta), 
+kas digitāli parakstīta ar adresi no kura veikts līdzekļu pārskaitījums.
 
-### Propose a translation
+### Piedāvā tulkojumu
 
-If you are able and wish to do a book translation, please contact publishing house via e-mail below. You will get the instructions in reply.
+Ja esi spējīgs un pastāv vēlme veikt grāmatas tulkojumu, sazinies ar izdevniecību pa zemāk norādīto e-pastu. 
+Atbildē saņemsi skaidrojumu kā veicams tulkojums. 
 
 ![Order an image](images/translate.png "Translate book")
 
-### Distribute
+### Izplati
 
-You may want to distribute the book: you're welcome to do so according to [LICENSE](LICENSE) agreement.
+Iespējams vēlies izplatīt šo grāmatu: esi laipni lūgts to darīt atbilstoši [vienošanos](LICENSE).
+
